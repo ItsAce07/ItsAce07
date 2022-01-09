@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ItsAce07
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Lua
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Discord: ItsAce#0001
+Hello, I'm ItsAce. I'm a Roblox Developer and founder of AceWare Entertainment.
+
+My current Projects are:
+- Terrific Tico (CTR) - https://www.roblox.com/games/6919767345/ADC-Citrus-Engine-Testing
+- Project Garden (GDN) - No Link Yet.
 
 <!---
 ItsAce07/ItsAce07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
